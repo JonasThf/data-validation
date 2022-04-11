@@ -1,2 +1,2 @@
 # data-validation
-Data Validation for Collaborative Cluster Configuration Optimization
+Code and data used for the Bachelor Thesis 'Data Validation for Collaborative Cluster Configuration Optimization' written by J. Thierfeldt.
